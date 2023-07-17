@@ -1,0 +1,8 @@
+.hero{
+    display: grid;
+    gap 15px;
+}
+.hero img {
+    width: 150px;
+    height: max-content;
+}

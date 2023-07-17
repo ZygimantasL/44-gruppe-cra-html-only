@@ -5,6 +5,7 @@
 /* imports from components */
 @import "../components/left-sidebar.css";
 @import "../components/right-sidebar.css";
+@import "../components/hero.css"
 
 /* imports from vendors */
 
